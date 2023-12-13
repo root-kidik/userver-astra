@@ -1,0 +1,15 @@
+[submodule "third_party/fmt"]
+	path = third_party/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "third_party/googletest"]
+	path = third_party/googletest
+	url = https://github.com/google/googletest.git
+[submodule "third_party/c-ares"]
+	path = third_party/c-ares
+	url = https://github.com/c-ares/c-ares.git
+[submodule "third_party/cctz"]
+	path = third_party/cctz
+	url = https://github.com/google/cctz.git
+[submodule "third_party/userver"]
+	path = third_party/userver
+	url = https://github.com/root-kidik/userver.git
